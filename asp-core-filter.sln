@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{0A13FF96-33C2-47E8-A1E9-0F6B5A194218}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebHost", "src\WebHost\WebHost.csproj", "{FBED0BDA-9701-4263-B9E2-481A4949EBFA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FCE48E93-9FE9-483D-AAB1-35D3C620D728}"
+	ProjectSection(SolutionItems) = preProject
+		adfadft.txt = adfadft.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBED0BDA-9701-4263-B9E2-481A4949EBFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBED0BDA-9701-4263-B9E2-481A4949EBFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBED0BDA-9701-4263-B9E2-481A4949EBFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBED0BDA-9701-4263-B9E2-481A4949EBFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FBED0BDA-9701-4263-B9E2-481A4949EBFA} = {0A13FF96-33C2-47E8-A1E9-0F6B5A194218}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8676C468-049B-4200-B512-E26684E53EC8}
+	EndGlobalSection
+EndGlobal
